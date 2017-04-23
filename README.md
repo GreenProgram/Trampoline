@@ -1,5 +1,5 @@
-# Trampoline-Issues
-Official Issue Tracker for Trampoline.
+# Trampoline
+Official Wiki and Issue Tracker for Trampoline.
 
 # How do I report an issue?
 You can report an issue by creating an Issue on the Issues tab with with the following information. Issues that do not have the following information will be ignored and marked as "Invalid".
