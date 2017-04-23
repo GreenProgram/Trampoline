@@ -11,4 +11,4 @@ You can report an issue by creating an Issue on the Issues tab with with the fol
 6) Any other information that you think will be useful
 
 # I have a question!
-Please do not use the Issue Tracker for questions. Instead, use our Discord channel: https://discord.gg/GMCK7VM
+If the Wiki does not answer your question, please do not use the Issue Tracker for questions and use our Discord support channel: https://discord.gg/GMCK7VM instead.
